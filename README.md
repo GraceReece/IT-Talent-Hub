@@ -13,6 +13,28 @@ The **IT Talent Hub** is a specialized digital ecosystem built to bridge the "Tr
 
 It combines a secure **M-Pesa Escrow Engine** with **Heuristic AI assistance** to ensure financial integrity and professional communication standards for Kenyan SMEs and IT Professionals.
 
+## 🔄 The Marketplace Lifecycle
+The platform manages the complete project lifecycle, enforcing technical quality at every stage:
+
+### 1. The Quality Gate (Vetting)
+- **Specialized Tracks:** IT Professionals can manage up to **4 specialization tracks** (e.g., Web Dev, Data & AI, Cloud).
+- **Manual Audit:** A professional cannot bid on a job until a Technical Reviewer manually audits their GitHub repositories and certifications for that specific track.
+- **Client Verification:** Businesses must upload valid licenses, which are vetted by the Compliance Team before they can post opportunities.
+
+### 2. Structured Job Posting
+- **AI-Assisted Drafting:** Clients use the integrated **Gemini AI** to translate vague needs into professional technical requirements (minimum 50 characters).
+- **Categorization:** Jobs are siloed into 5 departments to ensure they are only seen by the relevant verified experts.
+
+### 3. Merit-Based Bidding & Negotiation
+- **Verified Bidding:** Only professionals with a "Verified" status in a specific track can submit proposals.
+- **Project-Linked Messaging:** An internal messaging drawer allows for price negotiation and scope definition. Conversations are permanently linked to the job ID for audit purposes.
+
+### 4. The Escrow Handshake
+- **Automated Locking:** Once a professional is selected, the system triggers an **M-Pesa STK Push**. 
+- **Asynchronous Activation:** The contract is only "born" and the workroom opened once the Safaricom API confirms the funds are secured in the Hub's vault.
+
+---
+
 ## 🚀 Key Innovations
 
 ### 1. Asynchronous M-Pesa Escrow Handshake
