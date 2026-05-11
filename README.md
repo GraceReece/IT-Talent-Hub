@@ -83,6 +83,6 @@ The platform includes a specialized **Analytics Center** that visualizes:
 ## 👨‍💻 Author
 **Grace Mueni**  
 Final-year IT Project — Mount Kenya University  
-[LinkedIn](https://www.linkedin.com/in/grace-mueni-797868390/) • [GitHub](https://github.com/GraceReece)
+[LinkedIn](https://www.linkedin.com/in/grace-mueni/) • [GitHub](https://github.com/GraceReece)
 ---
 *Note: This repository is currently private to protect proprietary integration logic and API configurations. Access can be granted upon professional request.*
